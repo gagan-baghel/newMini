@@ -1,0 +1,71 @@
+{
+  "user": [
+    {
+      "name": "GAGAN BAGHEL",
+      "userName": "Gagan123",
+      "email": "gagansinghbaghel12@gmail.com",
+      "profileImage": "/xyz",
+      "password": "gagan@123",
+      "favourites": [
+        {
+          "bookName": "5min",
+          "audioPath": "./mediaList/audiobooks/rule.mp3",
+          "bookImage": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+          "bookId": "12345",
+          "bookAuthor": "GAGAN",
+          "bookDescription": "GAGAN",
+          "isPlaying": false,
+          "languagetype": "English",
+          "ratings": [
+            {
+              "name": "",
+              "rating": 5
+            }
+          ],
+          "genre": "Motivation",
+          "id": "e020"
+        }
+      ],
+      "id": "7722"
+    },
+    {
+      "id": "80b2",
+      "name": "gagan",
+      "userName": "gagan123",
+      "email": "gaganbaghelofficial@gmail.com",
+      "profileImage": "/xyz",
+      "password": "111",
+      "favourites": []
+    },
+    {
+      "id": "14cc",
+      "name": "gagan",
+      "userName": "gagan123",
+      "email": "gagansinghbaghel15@gmail.com",
+      "profileImage": "/xyz",
+      "password": "12",
+      "favourites": []
+    }
+  ],
+  "books": [
+    {
+      "bookName": "5min",
+      "audioPath": "./mediaList/audiobooks/rule.mp3",
+      "bookImage": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+      "bookId": "12345",
+      "bookAuthor": "GAGAN",
+      "bookDescription": "GAGAN",
+      "isPlaying": false,
+      "languagetype": "English",
+      "ratings": [
+        {
+          "name": "",
+          "rating": 5
+        }
+      ],
+      "genre": "Motivation",
+      "id": "e020"
+    }
+  ],
+  "currentUser": []
+}
